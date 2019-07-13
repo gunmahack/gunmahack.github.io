@@ -109,7 +109,7 @@ font-family: "Hannotate TC";
   text-align: center;
   font-size: 30px;
 
-  margin: 30px 100px 0px 150px;
+  /* margin: 30px 100px 0px 150px; */
   padding: 50px;
 }
 
@@ -138,8 +138,8 @@ div.Team01{
   width: 100%;
   width: 230px;
   height: 230px;
-  padding: 10px;
-  margin-left: 10px;
+  /* padding: 10px;
+  margin-left: 10px; */
   text-align: center;
 
 }
@@ -197,14 +197,15 @@ div.Team01{
   margin-left: 10px;
 }
 .content{
-  margin-left: 17%;
+  margin-left: 15%;
+  text-align: center;
 }
 
 footer{
   background-color: #434343;
   background-size: cover;
   margin: 0;
-  height: 280px;
+
   width: 100vw;
   color: #FFFFFF;
   text-align: center;
@@ -223,7 +224,7 @@ footer h2{
 .twitter1{
   width: 60px;
   height: 60px;
-  margin: 0px 180px 0px 0px ;
+  
 
 }
 footer hr{
@@ -238,5 +239,5 @@ footer p{
   margin:40px 0px 0px 0px;
   padding: 0px;
   font-style: oblique;
-  
+
 }
