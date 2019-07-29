@@ -12,29 +12,109 @@ body {
     max-width: 100%
 
 }
+@media (max-width: 896px) {
+ header{
+
+
+ }
+}
+@media (max-width: 896px) {
+header h1{
+  
+}
+ .main_top p{
+
+   font-size: 27px;
+   text-align: center;
+   margin: 7px 2px 2px 2px;
+ }
+ .main .hr1 hr{
+    width: 40px;
+   text-align: center;
+  margin-right: 60px;
+ }
+ .main_content p{
+   font-size: 13.5px;
+   text-align: center;
+   margin:15px 2px 0px 2px;
+   padding: 5px;
+
+ }
+ .main_content br{
+   display: none;
+
+ }
+ div.main_content {
+   margin: 0;
+   padding: 10px;
+ }
+ .main button{
+
+   margin: 10px 30px 10px 0px;
+   text-align: center;
+ }
+}
+ /* @media (max-width: 896px) {
+  .main .hr1 hr{
+     width: 40px;
+    text-align: center;
+   margin-right: 60px;
+  }
+ } */
+/* @media (max-width: 896px) {
+ .main_content p{
+   font-size: 12px;
+   text-align: center;
+   margin:15px 2px 0px 2px;
+   padding: 5px;
+
+ } */
+ /* .main_content br{
+   display: none;
+
+ }
+} */
+/* @media (max-width: 896px) {
+ div.main_content {
+   margin: 0;
+   padding: 10px;
+ }
+} */
+/* @media (max-width: 896px) {
+ .main button{
+   margin-top: 2px;
+   padding: 10px;
+   text-align: center;
+
+
+ }
+} */
+
+
 
 header h1{
   color: #DED9D6;
-  padding:2rem 3rem;
+  padding:2rem 10px;
   font-family: "Hannotate TC";
-  font-size: 4rem;
+  font-size: 35px;
 }
 
 header{
   background-color: #363535;
-  height: 90px
+  height: 70px
 }
 header h1 span{
   color:#E66D04;
 }
 
+
 .main{
   background-image: url("img/pc1.jpg");
-  background-size:100% 120%;
+  background-size:100% 115%;
   font-family: "Hannotate TC";
   text-align: right;
   background-repeat: no-repeat;
-  width: 100vw;
+  /* width: 100vw; */
   /* height:100vh; */
 
 }
@@ -42,7 +122,7 @@ header h1 span{
 .main .main_top{
 
 color: #F5F4F2;
-font-size: 7rem;
+font-size: 70px;
 margin-right: 4%;
 margin-left: 4%;
 padding:10px 10px;
@@ -76,12 +156,13 @@ font-family: "Hannotate TC";
 .button1
 {
   font-weight: bold;
-  padding: 15px ;
+  padding: 10px ;
   background-color: #FF7600;
   color: #fff;
   font-size: 1.65em;
-  margin: 50px 120px;
+  margin: 50px 100px;
 font-size: 2vw;
+
 }
 .button1 a{
   text-decoration: none;
@@ -90,6 +171,8 @@ font-size: 2vw;
 .button1:hover{
   background-color:#EAA061;
 }
+
+
 
 .aboutgumma p{
   font-family: "Hannotate TC";
