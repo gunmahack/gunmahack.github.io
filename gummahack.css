@@ -1,0 +1,292 @@
+*{
+  margin:0;
+  padding: 0;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+    overflow-x: hidden; */
+    width: 100vw
+    position: relative;
+    max-width: 100%
+
+}
+
+header h1{
+  color: #DED9D6;
+  padding:2rem 3rem;
+  font-family: "Hannotate TC";
+  font-size: 4rem;
+}
+
+header{
+  background-color: #363535;
+  height: 90px
+}
+header h1 span{
+  color:#E66D04;
+}
+
+.main{
+  background-image: url("img/pc1.jpg");
+  background-size:100% 120%;
+  font-family: "Hannotate TC";
+  text-align: right;
+  background-repeat: no-repeat;
+  width: 100vw;
+  /* height:100vh; */
+
+}
+
+.main .main_top{
+
+color: #F5F4F2;
+font-size: 7rem;
+margin-right: 4%;
+margin-left: 4%;
+padding:10px 10px;
+/* letter-spacing:  1rem; */
+line-height:1.5;
+/* font-family: "Hannotate TC"; */
+
+
+}
+.hr1 hr{
+  border-width: 1.2vw;
+  border-color: #FF6C00;
+  width: 10vw;
+  float: right;
+  margin-right:7%;
+  margin-left: 7%;
+}
+.main_content{
+color: #F5F4F2;
+font-size: 3rem;
+margin-right: 4%;
+margin-left: 4%;
+margin-top: 50px;
+padding:20px 20px;
+letter-spacing: 5px;
+line-height:1.5;
+font-family: "Hannotate TC";
+
+
+}
+.button1
+{
+  font-weight: bold;
+  padding: 15px ;
+  background-color: #FF7600;
+  color: #fff;
+  font-size: 1.65em;
+  margin: 50px 120px;
+font-size: 2vw;
+}
+.button1 a{
+  text-decoration: none;
+
+}
+.button1:hover{
+  background-color:#EAA061;
+}
+
+.aboutgumma p{
+  font-family: "Hannotate TC";
+  text-align:center;
+  font-size:280%;
+  margin: 60px 0;
+}
+
+.aboutgumma_content p{
+  font-family: "Hannotate TC";
+  text-align:center;
+  font-size: 25px;
+  margin: 50px;
+
+}
+
+.study01{
+  display: block;
+  margin: auto;
+  width: 40%;
+  height: 40%;
+
+}
+
+.feature_main p{
+  font-family: "Hannotate TC";
+  text-align:center;
+  font-size:280%;
+  margin-top: 40px;
+}
+.feature_content{
+  font-family: "Hannotate TC";
+  text-align: center;
+  font-size: 25px;
+
+  /* margin: 30px 100px 0px 150px; */
+  /* ------------------------------------------------ */
+  padding: 50px;
+}
+/*
+-------------------------------------------------------- */
+
+.row {
+    /* width: 100%; */
+    /* margin-left: 45px;
+    margin-right: 45px; */
+    /* margin-top: 0;
+    margin-bottom: 0; */
+   /* text-align: center; */
+    /* margin-right:auto;
+    margin-left: auto;
+    text-align: center; */
+    /* padding-left: 15px;
+    padding-right: 15px; */
+}
+
+.content{
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+
+}
+.Team01{
+  font-family: "Hannotate TC";
+  display: inline-block;
+  box-shadow: 0px 0px 10px;
+  border: solid 1px #000000;
+  padding: 10px;
+  width: 240px;
+  height: 380px;
+}
+
+.Team01 img{
+
+  width: 230px;
+  height: 230px;
+  padding: 10px;
+}
+.Team01 span{
+  font-size: 30px;
+  color: #FF8000;
+
+}
+
+
+
+.job01{
+  font-family: "Hannotate TC";
+  display: inline-block;
+  box-shadow: 0px 0px 10px;
+  border: solid 1px #000000;
+  width: 240px;
+  height: 380px;
+  padding: 10px;
+}
+.job01 span{
+  font-size: 30px;
+  color: #FF8000;
+
+}
+.job01 img{
+
+  width: 230px;
+  height: 230px;
+  padding: 10px;
+}
+.freelance01{
+  font-family: "Hannotate TC";
+  padding: 10px;
+  box-shadow: 0px 0px 10px;
+  border: solid 1px #000000;
+  width: 240px;
+  height: 380px;
+}
+.box{
+display: inline-block;
+margin: 15px;
+}
+.sukima{
+  padding-top:6;
+}
+
+
+.freelance01 img{
+
+  width: 230px;
+  height: 230px;
+  padding: 10px;
+}
+.freelance01 span{
+  font-size: 30px;
+  color: #FF8000;
+
+}
+/* .freelance01{
+  font-family: "Hannotate TC";
+  display: inline-block;
+
+  width: 300px;
+  height: 400px;
+
+}
+
+.freelance01 img{
+
+  width: 230px;
+  height: 230px;
+  /* padding: 10px; */
+
+.freelance01 span{
+  font-size: 30px;
+  color: #FF8000;
+
+}
+
+footer{
+  background-color: #434343;
+  background-size:cover;
+  color: #FFFFFF;
+  margin:0;
+  /* -------------------------------------------------------- */
+  /* height: 280px; */
+  width: 100vw;
+  float: none;
+  clear:both;
+  font-family: "Hannotate TC";
+
+}
+footer h2{
+  margin: auto;
+  margin: 50px auto 50px auto;
+  padding-top: 50px;
+  font-style: oblique;
+  text-align: center;
+  background-color: #434343;
+  background-size:cover;
+  color: #FFFFFF;
+}
+
+.twitter1{
+  width: 60px;
+  height: 60px;
+  margin: 10px;
+}
+footer hr{
+  text-align: center;
+  border-width: 2px;
+  border-color: #FF6C00;
+  width:90vw;
+  margin: 20px auto 0px auto;
+
+
+}
+footer p{
+  font-size: 25px;
+  margin:30px 0px 0px 0px;
+  text-align: center;
+  font-style: oblique;
+
+}
