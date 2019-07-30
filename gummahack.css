@@ -20,7 +20,7 @@ body {
 }
 @media (max-width: 896px) {
 header h1{
-  
+
 }
  .main_top p{
 
@@ -54,42 +54,6 @@ header h1{
    text-align: center;
  }
 }
- /* @media (max-width: 896px) {
-  .main .hr1 hr{
-     width: 40px;
-    text-align: center;
-   margin-right: 60px;
-  }
- } */
-/* @media (max-width: 896px) {
- .main_content p{
-   font-size: 12px;
-   text-align: center;
-   margin:15px 2px 0px 2px;
-   padding: 5px;
-
- } */
- /* .main_content br{
-   display: none;
-
- }
-} */
-/* @media (max-width: 896px) {
- div.main_content {
-   margin: 0;
-   padding: 10px;
- }
-} */
-/* @media (max-width: 896px) {
- .main button{
-   margin-top: 2px;
-   padding: 10px;
-   text-align: center;
-
-
- }
-} */
-
 
 
 header h1{
@@ -214,20 +178,6 @@ font-size: 2vw;
 }
 /*
 -------------------------------------------------------- */
-
-.row {
-    /* width: 100%; */
-    /* margin-left: 45px;
-    margin-right: 45px; */
-    /* margin-top: 0;
-    margin-bottom: 0; */
-   /* text-align: center; */
-    /* margin-right:auto;
-    margin-left: auto;
-    text-align: center; */
-    /* padding-left: 15px;
-    padding-right: 15px; */
-}
 
 .content{
   text-align: center;
