@@ -6,7 +6,7 @@ html {
   font-size: 62.5%;
 }
 body {
-  
+
     overflow-x: hidden; */
     width: 100vw
     position: relative;
@@ -142,15 +142,15 @@ font-size: 2vw;
 .aboutgumma p{
   font-family: "Hannotate TC";
   text-align:center;
-  font-size:280%;
-  margin: 60px 0;
+  font-size:260%;
+  margin:40px 0 10px 0;
 }
 
 .aboutgumma_content p{
   font-family: "Hannotate TC";
   text-align:center;
-  font-size: 25px;
-  margin: 50px;
+  font-size: 17px;
+  margin:10px;
 
 }
 
@@ -165,17 +165,17 @@ font-size: 2vw;
 .feature_main p{
   font-family: "Hannotate TC";
   text-align:center;
-  font-size:280%;
-  margin-top: 40px;
+  font-size:260%;
+  margin:40px 0 10px 0;
 }
 .feature_content{
   font-family: "Hannotate TC";
   text-align: center;
-  font-size: 25px;
+  font-size: 17px;
 
   /* margin: 30px 100px 0px 150px; */
   /* ------------------------------------------------ */
-  padding: 50px;
+  padding: 0px;
 }
 /*
 -------------------------------------------------------- */
@@ -183,7 +183,7 @@ font-size: 2vw;
 .content{
   text-align: center;
   margin: 20px;
-  padding: 20px;
+  padding: 10px;
 
 }
 .Team01{
@@ -194,6 +194,7 @@ font-size: 2vw;
   padding: 10px;
   width: 240px;
   height: 380px;
+  font-weight: bold;
 }
 
 .Team01 img{
@@ -218,6 +219,7 @@ font-size: 2vw;
   width: 240px;
   height: 380px;
   padding: 10px;
+  font-weight: bold;
 }
 .job01 span{
   font-size: 30px;
@@ -237,6 +239,7 @@ font-size: 2vw;
   border: solid 1px #000000;
   width: 240px;
   height: 380px;
+  font-weight: bold;
 }
 .box{
 display: inline-block;
@@ -294,18 +297,19 @@ footer{
 }
 footer h2{
   margin: auto;
-  margin: 50px auto 50px auto;
-  padding-top: 50px;
+  margin: 30px auto 10px auto;
+  padding-top: 20px;
   font-style: oblique;
   text-align: center;
   background-color: #434343;
   background-size:cover;
   color: #FFFFFF;
+  font-size: 14px;
 }
 
 .twitter1{
-  width: 60px;
-  height: 60px;
+  width: 30px;
+  height: 30px;
   margin: 10px;
 }
 footer hr{
@@ -314,7 +318,13 @@ footer hr{
   border-color: #FF6C00;
   width:90vw;
   margin: 20px auto 0px auto;
+}
 
+footer p{
+  font-size: 13px;
+  margin:10px;
+  text-align: center;
+}
 
 }
 footer p{
